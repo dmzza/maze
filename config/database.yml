@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: maze_development
+  host: localhost
+  username: david
+  password: 
+
+test:
+  adapter: postgresql
+  database: maze_test
+  host: localhost
+  username: david
+  password: 
