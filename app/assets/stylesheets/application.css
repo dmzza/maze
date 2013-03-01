@@ -1,0 +1,32 @@
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	width: 18px;
+	height: 18px;
+	border: 1px solid black;
+	float: left;
+	list-style: none;
+}
+
+.north {
+	border-top-color: white;
+}
+
+.east {
+	border-right-color: white;
+}
+
+.south {
+	border-bottom-color: white;
+}
+
+.west {
+	border-left-color: white;
+}
+
+.clearfloat {
+	clear: left;
+}

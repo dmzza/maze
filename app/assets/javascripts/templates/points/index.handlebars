@@ -1,6 +1,6 @@
 <ul>
 {{#each controller}}
-	<li>{{id}}</li>
+	<li {{bindAttr class="northernPoint:north easternPoint:east southernPoint:south westernPoint:west isNewRow:clearfloat"}}> </li>
 {{else}}
 	<li>nothing</li>
 {{/each}}

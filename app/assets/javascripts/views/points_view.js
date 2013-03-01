@@ -1,0 +1,3 @@
+PointsIndexView = Ember.View.extend({
+	
+});
